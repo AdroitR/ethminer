@@ -1,0 +1,3 @@
+v0.19.0-11-gd5f3a972220e06bf7b5d964d473d4c757e57e35d-dirty
+master
+https://github.com/ethereum-mining/ethminer.git
